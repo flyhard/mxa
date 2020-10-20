@@ -57,7 +57,7 @@
 		<mimepull.version>1.8</mimepull.version>
 		<jaxp.api.version>1.4.5</jaxp.api.version>
 		<jaxb.api.version>2.2.6</jaxb.api.version>
-		<xerces.version>2.9.1</xerces.version>
+		<xerces.version>2.12.0</xerces.version>
 		<streambuffer.version>1.4</streambuffer.version>
 		<stax.ex.version>1.7</stax.ex.version>
 		<jaxws.api.version>2.2.6</jaxws.api.version>
