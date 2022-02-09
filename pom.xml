@@ -44,7 +44,7 @@
 		<javax.inject.version>1</javax.inject.version>
 
 		<jta.version>1.1</jta.version>
-		<hibernate.version>3.6.10.Final</hibernate.version>
+		<hibernate.version>5.4.24.Final</hibernate.version>
 		<ehcache.version>2.5.1</ehcache.version>
 		<javassist.version>3.16.1-GA</javassist.version>
 		<cglib.version>2.2.2</cglib.version>
